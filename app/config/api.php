@@ -165,7 +165,7 @@ $config['refresh_token_table'] = 'refresh_tokens';
 | application's name or URL.
 |
 */
-$config['jwt_issuer'] = 'http://localhost';
+$config['jwt_issuer'] = 'https://ActivityLab6.onrender.com';
 
 /*
 |--------------------------------------------------------------------------
@@ -176,7 +176,7 @@ $config['jwt_issuer'] = 'http://localhost';
 |
 */
 
-$config['jwt_audience'] = 'http://localhost';
+$config['jwt_audience'] = 'https://ActivityLab6.onrender.com';
 
 /*
 |--------------------------------------------------------------------------
